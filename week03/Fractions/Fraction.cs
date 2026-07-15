@@ -1,6 +1,6 @@
 using System;
 using System.Diagnostics;
-
+//by kerr
 public class Fraction
 {
     private int _top;
